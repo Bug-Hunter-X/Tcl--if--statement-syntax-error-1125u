@@ -1,0 +1,1 @@
+This repository demonstrates a common syntax error in Tcl's `if` statement. The `badproc` procedure incorrectly omits the `then` keyword, resulting in a syntax error. The `bugSolution.tcl` file provides the corrected code.
